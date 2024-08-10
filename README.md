@@ -21,7 +21,7 @@
 To get started with the Explore Pokhara project, follow these steps:
 
 1. **Clone the Repository**:
-``` git clone https://github.com/llaxmi/wander-pokhara.git ```
+``` git clone https://github.com/aayushmak/wander-pokhara.git ```
 
 2. **Navigate to the Project Directory**:
 ``` cd wander-pokhara ```
